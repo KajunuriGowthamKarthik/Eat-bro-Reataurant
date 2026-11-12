@@ -5,4 +5,5 @@ function toggleExplore() {
 
 function toggleDarkMode() {
     document.body.classList.toggle("dark-mode");
+     alert("dark mode");
 }
